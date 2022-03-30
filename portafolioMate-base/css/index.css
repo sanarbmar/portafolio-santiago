@@ -1,6 +1,8 @@
-
+@import './header.css';
+@import './main.css';
+@import './proyects.css';
 :root { 
-  --primary: #5928e5; 
+  --primary: #34A7FF; 
   --white: #ffffff; 
   --secondary: #fed9da; 
   --black: #000000; 
@@ -28,7 +30,11 @@ body {
   color: var(--white);
   background-color: var(--black);
   font: var(--headline2);
+  margin: 0;
+  padding: 0;
 }
-
+.debug{
+  border: 2px solid green;
+}
 
 
