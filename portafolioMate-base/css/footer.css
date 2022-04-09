@@ -1,0 +1,37 @@
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.redes{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+.red{
+    cursor: pointer;
+}
+
+.twitter:hover{
+    background-image: url('../images/twitter-noche.png');
+}
+.instagram{
+    
+}
+.github{
+    
+}
+.copyrigth p{
+    font-size: 1.12rem;
+    font-weight: 500;
+    font-family: 'Maven Pro', sans-serif;
+    line-height: 1.32rem;
+}
+.footer{
+  
+    display: flex;
+    height: 201px;
+}
+/* .red img:hover{
+    background: url('../images/twitter.png');
+} */

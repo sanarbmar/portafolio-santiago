@@ -1,0 +1,21 @@
+.mail-div{
+    inline-size: 46.87rem;
+    margin: auto;
+    margin-top: 80px;
+}
+.mail-div h1{
+    font-size: 1.5rem;
+    font-weight: 700;
+    font-family: 'Maven Pro', sans-serif;
+    line-height: 4.75rem;
+}
+.mail-div a{
+    text-decoration: none;
+    color: #EF4565;
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: 'Maven Pro', sans-serif;
+}
+.mail-div a:hover{
+    color: var(--primary);
+}
